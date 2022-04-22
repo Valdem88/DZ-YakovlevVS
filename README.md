@@ -66,7 +66,6 @@ Set-Cookie: prov=e24c4827-e7bd-8c95-0386-2372f370d03f; domain=.stackoverflow.com
 #### 3. Какой IP адрес у вас в интернете?
 
 Решение
-
 ```bash
 [root@Git-SentOS-8 ~]# dig @resolver4.opendns.com myip.opendns.com +short
 46.160.XXX.XXX   
